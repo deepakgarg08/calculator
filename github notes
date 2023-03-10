@@ -1,0 +1,31 @@
+// to initialize a git repository
+git init
+// to add a file
+git add .
+// to commit a file
+git commit -m "add add.js"
+// to push a file
+git push
+
+// to add a remote repository
+git remote add origin URL
+
+// to push a file to a remote repository
+git push
+
+// to check all branch
+git branch -a
+// to check current branch
+git branch
+// to check all commits
+git log
+
+
+
+// to create a new branch
+git checkout -b branch-name
+
+or
+// to create a new branch
+git branch branch-name
+git checkout branch-name
